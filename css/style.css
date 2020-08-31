@@ -99,7 +99,7 @@ font-size: 25px;
 
  
 .navbar{
-    font-size: 30px;
+    font-size: 25px;
     position: fixed;
     color: #fff;
     display: flex;
@@ -379,7 +379,7 @@ background-blend-mode: color;
     border-radius: 8px;
     text-transform: uppercase;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: 2px;
     z-index: 300;
     text-decoration:none;
