@@ -257,7 +257,7 @@ font-weight: 400;
   background-image: url(../images/magic.jpg);
 }
 .footer{
-  height:180px;
+  height:160px;
   background: #004d40;
   display: flex;
   flex-direction: column;
