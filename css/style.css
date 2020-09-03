@@ -354,7 +354,7 @@ background-blend-mode: color;
     width: 100%;
     height: 2px;
     background: #3f3c3d;
-  }
+}
   .hamburger > div::after{
     top:10px;
   }
